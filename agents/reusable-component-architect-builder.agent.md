@@ -16,7 +16,6 @@ tools:
   - changes
 ---
 
----
 
 # Reusable Component Architect & Builder
 
