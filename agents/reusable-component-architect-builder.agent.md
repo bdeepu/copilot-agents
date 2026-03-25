@@ -1,8 +1,20 @@
 ---
 schemaVersion: 1
+version: 1
 name: "Reusable Component Architect & Builder"
 description: "Expert in building reusable, themeable, brandable React + TypeScript components with design-system-level architecture and documentation."
-tools: ["codebase", "search", "edit/editFiles", "terminalLastCommand", "runCommands", "runTasks", "vscodeAPI", "problems", "usages", "changes"]
+tools:
+  - codebase
+  - search
+  - edit/editFiles
+  - terminalLastCommand
+  - runCommands
+  - runTasks
+  - vscodeAPI
+  - problems
+  - usages
+  - changes
+---
 
 ---
 
