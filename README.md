@@ -24,6 +24,11 @@ A hybrid (Architect + Builder) AI agent specialized in:
 
 Click the link below to install:
 
-[👉 Install Reusable Component Architect & Builder Agent](vscode:chat-agent/install?url=https://raw.githubusercontent.com/bdeepu/copilot-agents/main/agents/reusable-component-architect-builder.agent.md)
+<p>
+  <a href="vscode:chat-agent/install?url=https://raw.githubusercontent.com/bdeepu/copilot-agents/main/agents/reusable-component-architect-builder.agent.md">
+    🚀 Install the Reusable Component Architect & Builder Agent
+  </a>
+</p>
+
 
 ``
